@@ -1,2 +1,2 @@
 create or replace view emp_vw
-as select * from emp;
+as select * from emp order;
