@@ -1,3 +1,3 @@
-create or replace package pkg1
+create or replace package schema_5.pkg1
 procedure proc1(arg1 number);
 end;
