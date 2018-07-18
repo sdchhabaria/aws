@@ -1,1 +1,1 @@
-drop table emp;
+drop table schema_4.emp;
