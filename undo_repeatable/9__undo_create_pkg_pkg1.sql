@@ -1,1 +1,1 @@
-drop package pkg1;
+drop package schema_5.pkg1;
