@@ -1,1 +1,1 @@
-Drop view schema_4.emo_vw;
+Drop view schema_4.emp_vw;
