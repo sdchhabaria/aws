@@ -1,4 +1,4 @@
-create or replace package body schema_5.pkg1
+create or replace package body qa_schema_2.pkg1
 as
 Procedure proc1(arg1 number)
 as
